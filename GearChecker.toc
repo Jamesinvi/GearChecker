@@ -1,0 +1,6 @@
+## Interface: 80200
+
+## Title: GearChecker
+## Version 0.1
+
+Core.lua
