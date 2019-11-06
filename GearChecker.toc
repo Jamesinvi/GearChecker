@@ -2,5 +2,8 @@
 
 ## Title: GearChecker
 ## Version 0.1
-
-Core.lua
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## SavedVariables: GearCheckerDB
+embeds.xml
+core.lua
